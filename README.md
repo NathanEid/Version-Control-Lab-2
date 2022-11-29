@@ -42,3 +42,7 @@ git push origin --delete v1.7
 
 11- Tell me how to list tags.
 git tag 
+
+12- adding an image
+
+![download](https://user-images.githubusercontent.com/40915944/204588563-fb619156-cb8e-412c-becd-a5d29cd17e9f.png)
