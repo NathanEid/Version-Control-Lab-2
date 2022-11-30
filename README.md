@@ -1,6 +1,6 @@
-##ITI-DevOps
+## ITI-DevOps
 
-#Version-Control-Lab-2
+# Version-Control-Lab-2
 
 1- creat Repo with name Version-Control-Lab-2
 
